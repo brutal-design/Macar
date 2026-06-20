@@ -18,6 +18,7 @@
   --semantic-text-muted: #a0a696;
   --semantic-text-disabled: #6d7463;
   --semantic-text-link: #cefd81;
+  --semantic-text-danger: #ff8080;
   --semantic-bg-canvas: #171915;
   --semantic-bg-elevated: #292c26;
   --semantic-bg-raised: #43483d;
@@ -42,13 +43,21 @@
   --component-button-danger-bg-default: #ff0000;
   --component-button-danger-bg-hover: #ff3d3d;
   --component-button-danger-bg-active: #ff8080;
+  --component-input-bg: #292c26;
+  --component-input-text: #f7f8f7;
+  --component-input-placeholder: #a0a696;
+  --component-input-border-default: #585e50;
+  --component-input-border-focus: #b4fc40;
+  --component-input-border-error: #ff0000;
   --typography-tiny-strong: 600 10px/14px Inter;
   --typography-overline: 700 10px/14px Inter;
   --typography-caption: 400 11px/16px Inter;
   --typography-footnote: 400 12px/16px Inter;
   --typography-label: 600 12px/16px Inter;
   --typography-body-xs: 400 13px/20px Inter;
+  --typography-body-xs-medium: 500 13px/20px Inter;
   --typography-body-xs-strong: 600 13px/20px Inter;
+  --typography-body-sm: 400 14px/20px Inter;
   --typography-body-sm-strong: 600 14px/20px Inter;
   --typography-body-strong: 600 16px/24px Inter;
 }

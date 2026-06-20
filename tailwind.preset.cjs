@@ -16,7 +16,8 @@ module.exports = {
           "secondary": "#dcded8",
           "muted": "#a0a696",
           "disabled": "#6d7463",
-          "link": "#cefd81"
+          "link": "#cefd81",
+          "danger": "#ff8080"
         },
         "bg": {
           "canvas": "#171915",
