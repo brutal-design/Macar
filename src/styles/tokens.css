@@ -11,7 +11,7 @@
   --primitives-radius-sm: 6px;
   --primitives-radius-md: 8px;
   --primitives-radius-full: 9999px;
-  --semantic-action-primary-default: #9cfb04;
+  --semantic-action-primary-default: #fb7b04;
   --semantic-action-secondary-active: #6d7463;
   --semantic-text-primary: #f7f8f7;
   --semantic-text-secondary: #dcded8;
@@ -27,7 +27,7 @@
   --semantic-status-success-border: #1d914d;
   --component-button-primary-text-default: #0a0b0f;
   --component-button-primary-text-disabled: #6d7463;
-  --component-button-primary-bg-default: #9cfb04;
+  --component-button-primary-bg-default: #fb7b04;
   --component-button-primary-bg-hover: #b4fc40;
   --component-button-primary-bg-active: #cefd81;
   --component-button-primary-bg-disabled: #585e50;
@@ -42,4 +42,13 @@
   --component-button-danger-bg-default: #ff0000;
   --component-button-danger-bg-hover: #ff3d3d;
   --component-button-danger-bg-active: #ff8080;
+  --typography-tiny-strong: 600 10px/14px Inter;
+  --typography-overline: 700 10px/14px Inter;
+  --typography-caption: 400 11px/16px Inter;
+  --typography-footnote: 400 12px/16px Inter;
+  --typography-label: 600 12px/16px Inter;
+  --typography-body-xs: 400 13px/20px Inter;
+  --typography-body-xs-strong: 600 13px/20px Inter;
+  --typography-body-sm-strong: 600 14px/20px Inter;
+  --typography-body-strong: 600 16px/24px Inter;
 }

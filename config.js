@@ -18,7 +18,7 @@ export default {
   platforms: {
     // 1) CSS-змінні ------------------------------------------------------
     css: {
-      transforms: ['attribute/cti', 'name/kebab', 'color/css'],
+      transforms: ['attribute/cti', 'name/kebab', 'color/css', 'typography/css/shorthand'],
       buildPath: 'src/styles/',
       files: [
         {

@@ -5,7 +5,7 @@ module.exports = {
       colors: {
         "action": {
           "primary": {
-            "DEFAULT": "#9cfb04"
+            "DEFAULT": "#fb7b04"
           },
           "secondary": {
             "active": "#6d7463"
