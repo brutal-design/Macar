@@ -1,0 +1,45 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --primitives-space-6: 6px;
+  --primitives-space-8: 8px;
+  --primitives-space-12: 12px;
+  --primitives-space-16: 16px;
+  --primitives-space-20: 20px;
+  --primitives-radius-sm: 6px;
+  --primitives-radius-md: 8px;
+  --primitives-radius-full: 9999px;
+  --semantic-action-primary-default: #9cfb04;
+  --semantic-action-secondary-active: #6d7463;
+  --semantic-text-primary: #f7f8f7;
+  --semantic-text-secondary: #dcded8;
+  --semantic-text-muted: #a0a696;
+  --semantic-text-disabled: #6d7463;
+  --semantic-text-link: #cefd81;
+  --semantic-bg-canvas: #171915;
+  --semantic-bg-elevated: #292c26;
+  --semantic-bg-raised: #43483d;
+  --semantic-border-subtle: #43483d;
+  --semantic-status-success-text: #c3f3d7;
+  --semantic-status-success-bg-subtle: #0d4424;
+  --semantic-status-success-border: #1d914d;
+  --component-button-primary-text-default: #0a0b0f;
+  --component-button-primary-text-disabled: #6d7463;
+  --component-button-primary-bg-default: #9cfb04;
+  --component-button-primary-bg-hover: #b4fc40;
+  --component-button-primary-bg-active: #cefd81;
+  --component-button-primary-bg-disabled: #585e50;
+  --component-button-secondary-text: #f7f8f7;
+  --component-button-secondary-border: #585e50;
+  --component-button-secondary-bg-default: #43483d;
+  --component-button-secondary-bg-hover: #585e50;
+  --component-button-secondary-bg-active: #6d7463;
+  --component-button-ghost-text: #f7f8f7;
+  --component-button-ghost-bg-hover: #43483d;
+  --component-button-danger-text: #0a0b0f;
+  --component-button-danger-bg-default: #ff0000;
+  --component-button-danger-bg-hover: #ff3d3d;
+  --component-button-danger-bg-active: #ff8080;
+}

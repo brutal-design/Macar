@@ -1,0 +1,13 @@
+{
+  "name": "macar",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build:tokens": "style-dictionary build"
+  },
+  "devDependencies": {
+    "style-dictionary": "^5.4.4",
+    "vite": "^8.0.16"
+  }
+}
